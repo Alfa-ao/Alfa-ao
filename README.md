@@ -22,4 +22,4 @@ Here are some ideas to get you started:
     <img alt="github-snake" src="https://raw.githubusercontent.com/Alfa-ao/Alfa-ao/output/github-snake.svg" />
 </picture>
 
-[Allods-lua-api-docs](https://alfa-ao.github.io/allods-lua-api-docs/) - Документация.
+- [Allods-lua-api-docs](https://alfa-ao.github.io/allods-lua-api-docs/) - Документация.

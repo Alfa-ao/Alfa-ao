@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Alfa-ao/Alfa-ao/refs/heads/main/17882503810700_mem.png" width="700px">
+    <img src="https://raw.githubusercontent.com/Alfa-ao/Alfa-ao/refs/heads/main/17882503810700_mem.png" width="400px">
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alfa-ao/Alfa-ao/output/github-snake-dark.svg" />

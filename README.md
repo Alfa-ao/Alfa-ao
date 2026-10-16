@@ -14,3 +14,4 @@
 - [DnDManager](https://github.com/Alfa-ao/DnDManager) ([Download](https://github.com/Alfa-ao/DnDManager/releases/latest)) - ООП типизированный менеджер Drag&Drop по перетаскиванию окон (Виджеты).
 - [var_dump](https://github.com/Alfa-ao/var_dump) ([Download](https://github.com/Alfa-ao/var_dump/releases/latest)) - Инструмент отладки для вывода структурированной информации о переменных: содержимое, типы данных и вложенная структура объектов/таблиц.
 - [Enum](https://github.com/Alfa-ao/Enum) ([Download](https://github.com/Alfa-ao/Enum/releases/latest)) - (Экспериментальный) Фабрика для создания перечислений - Enum.
+- [ForgePackage](https://github.com/Alfa-ao/ForgePackage) ([Download](https://github.com/Alfa-ao/ForgePackage/releases/latest)) - Консольный менеджер зависимостей для аддонов.

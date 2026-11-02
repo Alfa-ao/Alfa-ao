@@ -13,6 +13,6 @@
 Библиотеки / Инструменты:
 - [DnDManager](https://github.com/Alfa-ao/DnDManager) ([Download](https://github.com/Alfa-ao/DnDManager/releases/latest)) - Менеджер Drag&Drop по перетаскиванию / растягиванию окон (Виджеты).
 - [var_dump](https://github.com/Alfa-ao/var_dump) ([Download](https://github.com/Alfa-ao/var_dump/releases/latest)) - Инструмент отладки для вывода структурированной информации о переменных.
-- [Enum](https://github.com/Alfa-ao/Enum) ([Download](https://github.com/Alfa-ao/Enum/releases/latest)) - (Экспериментальный) Фабрика для создания перечислений - Enum.
+- [Enum](https://github.com/Alfa-ao/Enum) ([Download](https://github.com/Alfa-ao/Enum/releases/latest)) - Фабрика для создания перечислений - Enum.
 - [ForgePackage](https://github.com/Alfa-ao/ForgePackage) ([Download](https://github.com/Alfa-ao/ForgePackage/releases/latest)) - Консольный менеджер зависимостей для аддонов.
 - [DebugService](https://github.com/Alfa-ao/DebugService) ([Download](https://github.com/Alfa-ao/DebugService/releases/latest)) - Сервис для управления отладочным логированием аддона.

@@ -11,7 +11,8 @@
 - [LibreAlchemyV2](https://github.com/Alfa-ao/LibreAlchemyV2) ([Download](https://github.com/Alfa-ao/LibreAlchemyV2/releases/latest)) - Аддон для помощи в Алхимии.
 
 Библиотеки / Инструменты:
-- [DnDManager](https://github.com/Alfa-ao/DnDManager) ([Download](https://github.com/Alfa-ao/DnDManager/releases/latest)) - ООП типизированный менеджер Drag&Drop по перетаскиванию окон (Виджеты).
-- [var_dump](https://github.com/Alfa-ao/var_dump) ([Download](https://github.com/Alfa-ao/var_dump/releases/latest)) - Инструмент отладки для вывода структурированной информации о переменных: содержимое, типы данных и вложенная структура объектов/таблиц.
+- [DnDManager](https://github.com/Alfa-ao/DnDManager) ([Download](https://github.com/Alfa-ao/DnDManager/releases/latest)) - Менеджер Drag&Drop по перетаскиванию / растягиванию окон (Виджеты).
+- [var_dump](https://github.com/Alfa-ao/var_dump) ([Download](https://github.com/Alfa-ao/var_dump/releases/latest)) - Инструмент отладки для вывода структурированной информации о переменных.
 - [Enum](https://github.com/Alfa-ao/Enum) ([Download](https://github.com/Alfa-ao/Enum/releases/latest)) - (Экспериментальный) Фабрика для создания перечислений - Enum.
 - [ForgePackage](https://github.com/Alfa-ao/ForgePackage) ([Download](https://github.com/Alfa-ao/ForgePackage/releases/latest)) - Консольный менеджер зависимостей для аддонов.
+- [DebugService](https://github.com/Alfa-ao/DebugService) ([Download](https://github.com/Alfa-ao/DebugService/releases/latest)) - Сервис для управления отладочным логированием аддона.

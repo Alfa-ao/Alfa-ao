@@ -6,6 +6,7 @@
 
 
 - [Allods-lua-api-docs](https://alfa-ao.github.io/allods-lua-api-docs/) - Документация Lua Api по игре Аллоды Онлайн.
+- [Kurs_kri](https://alfa-ao.github.io/Kurs_kri/) - Курс кристаллов за 2024 - 2026 годы.
 
 Аддоны:
 - [LibreAlchemyV2](https://github.com/Alfa-ao/LibreAlchemyV2) ([Download](https://github.com/Alfa-ao/LibreAlchemyV2/releases/latest)) - Аддон для помощи в Алхимии.

@@ -18,3 +18,4 @@
 - [Enum](https://github.com/Alfa-ao/Enum) ([Download](https://github.com/Alfa-ao/Enum/releases/latest)) - Фабрика для создания перечислений - Enum.
 - [ForgePackage](https://github.com/Alfa-ao/ForgePackage) ([Download](https://github.com/Alfa-ao/ForgePackage/releases/latest)) - Консольный менеджер зависимостей для аддонов.
 - [DebugService](https://github.com/Alfa-ao/DebugService) ([Download](https://github.com/Alfa-ao/DebugService/releases/latest)) - Сервис для управления отладочным логированием аддона.
+- [WidgetTree](https://github.com/Alfa-ao/WidgetTree) ([Download](https://github.com/Alfa-ao/WidgetTree/releases/latest)) - Простая как пробка библиотека для вывода дерева виджетов [имя (тип)].

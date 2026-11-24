@@ -11,6 +11,7 @@
 Аддоны:
 - [LibreAlchemyV2](https://github.com/Alfa-ao/LibreAlchemyV2) ([Download](https://github.com/Alfa-ao/LibreAlchemyV2/releases/latest)) - Аддон для помощи в Алхимии.
 - [AA_AvatarDamagePvPAlert](https://github.com/Alfa-ao/AA_AvatarDamagePvPAlert) ([Download](https://github.com/Alfa-ao/AA_AvatarDamagePvPAlert/releases/latest)) - Аддон для PvP. Уведомляет когда вас атакуют противники.
+- [Console](https://github.com/Alfa-ao/Console) ([Download](https://github.com/Alfa-ao/Console/releases/latest)) - Консольное окно для вывода любой информации.
 
 Библиотеки / Инструменты:
 - [DnDManager](https://github.com/Alfa-ao/DnDManager) ([Download](https://github.com/Alfa-ao/DnDManager/releases/latest)) - Менеджер Drag&Drop по перетаскиванию / растягиванию окон (Виджеты).
